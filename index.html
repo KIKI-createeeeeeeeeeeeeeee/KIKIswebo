@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8" />
+    <title>KIKI-createeeeeeeeeeeeeeee/KIKIsweb</title>
+</head>
+<body>
+    <h1>Добро пожаловать на мой сайт!</h1>
+    <p>Мой сайт сможет предоставить вам любую информацию, удобную для познания</p>
+ <p></p>
+    <img src="https://avatars.mds.yandex.net/i?id=289f8cecaff4d98a0da48fd354e03747f8be9fe3-5238844-images-thumbs&n=13" alt="9 В" />
+</body>
+</html>
+</body>
+</html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Фон с изображением</title>
+    <style>
+        body {
+            margin: 0; /* Убираем отступы */
+            height: 100vh; /* Высота вьюпорта */
+            background-image: url('https://avatars.mds.yandex.net/i?id=545039a778034eda12eb7488b806461b_l-5192531-images-thumbs&n=13');
+            background-size: cover; /* Масштабируем изображение по всему фону */
+            background-position: center; /* Центрируем изображение */
+            background-repeat: no-repeat; /* Не повторять изображение */
+        }
+    </style>
+</head>
+<body>
